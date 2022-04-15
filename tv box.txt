@@ -1,1 +1,3 @@
-CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+香港频道,#genre#
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8

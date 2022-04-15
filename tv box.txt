@@ -1,3 +1,6 @@
-香港频道,#genre#
+台湾频道,#genre#
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+香港频道,#genre#
+星河频道,http://iptv.tvfix.org/hls/tvbxh2.m3u8
+武功频道,http://iptv.tvfix.org/hls/tvbkf.m3u8

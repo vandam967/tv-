@@ -1,2 +1,4 @@
+
 台湾频道,#genre#
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+CCTV1HD,http://117.148.179.155/TVOD/88888888/224/3221231468/index.m3u8
